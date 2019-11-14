@@ -1,5 +1,5 @@
 FROM debian:stretch-slim
-MAINTAINER Rafael Römhild <rafael@roemhild.de>
+MAINTAINER Conan goldsmith <cgoldsmith@confluent.io>
 
 # Install slapd and requirements
 RUN apt-get update \
