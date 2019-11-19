@@ -1,0 +1,8 @@
+dn: cn=cp_demo_users,ou=people,dc=cccdemo,dc=com
+objectclass: Group
+objectclass: top
+groupType: 2147483650
+cn: cp_demo_users
+member: cn=Confluent Connect,ou=people,dc=cccdemo,dc=com
+member: cn=Schema Registry User,ou=people,dc=cccdemo,dc=com
+member: cn=Demo User,ou=people,dc=cccdemo,dc=com
