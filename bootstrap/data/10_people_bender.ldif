@@ -1,8 +1,8 @@
 dn: cn=Demo User,ou=people,dc=cccdemo,dc=com
+objectClass: top
 objectClass: person
 objectClass: organizationalPerson
-objectClass: person
-objectClass: top
+objectClass: inetOrgPerson
 description: Demo user for testing
 displayName: Test
 cn: Demo User
