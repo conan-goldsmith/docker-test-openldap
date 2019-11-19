@@ -1,5 +1,5 @@
-dn: ou=people,dc=planetexpress,dc=com
+dn: ou=people,dc=cccdemo,dc=com
 objectClass: top
 objectClass: organizationalUnit
-description: Planet Express crew
+description: confluent cloud demo accounts
 ou: people
