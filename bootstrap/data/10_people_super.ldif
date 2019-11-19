@@ -1,4 +1,4 @@
-dn: cn=Super Usre,ou=people,dc=cccdemo,dc=com
+dn: cn=Super User,ou=people,dc=cccdemo,dc=com
 objectClass: inetOrgPerson
 objectClass: organizationalPerson
 objectClass: person
