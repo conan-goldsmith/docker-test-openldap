@@ -1,0 +1,14 @@
+dn: cn=Confluent Connect,ou=people,dc=cccdemo,dc=com
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+cn: Confluent Connect
+sn: CConnect
+description: User for Connect component
+displayName: CConnect
+ou: Components
+uid: connect
+userPassword:: e3NzaGF9d0wvVG0wSHNaeU90K29jbXlrU290UkpURnczd0ZKOWRlaEU4eFE9P
+ Q==
+

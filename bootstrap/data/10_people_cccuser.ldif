@@ -1,0 +1,14 @@
+dn: cn=CCC User,ou=people,dc=cccdemo,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+cn: CCC User
+sn: CCC
+displayName: CCC
+description: Account for user with CCC component
+ou: Components
+uid: ccc
+userPassword:: e3NzaGF9M3UzcUdCSmFMc2tiUEg0OVJrYlFtUk9HTktFb1lOUXZkU2lOZmc9P
+ Q==
+

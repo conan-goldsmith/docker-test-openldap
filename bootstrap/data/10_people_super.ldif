@@ -1,0 +1,14 @@
+dn: cn=Super Usre,ou=people,dc=cccdemo,dc=com
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+cn: Super User
+sn: Super
+description: Account to act as super uesr
+displayName: super
+ou: Management
+uid: super
+userPassword:: e3NzaGF9azRDRS9ta3Frb3NFampzVkhJWEhGMTFaU0h6ZVExUzdhdnQveWc9P
+ Q==
+

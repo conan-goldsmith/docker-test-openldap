@@ -1,0 +1,14 @@
+dn: cn=Schema Registry User,ou=people,dc=cccdemo,dc=com
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+cn: Schema Registry User
+sn: Schema
+displayName: Schema
+description: Account for use with Schema Registry Component
+ou: Components
+uid: schema
+userPassword:: e3NzaGF9eCtEOFJJTDFQNUJ3OFo1N28ra2tFeDlLNm14d0JSY0tSNmo1R2c9P
+ Q==
+

@@ -1,0 +1,14 @@
+dn: cn=KSQL User,ou=people,dc=cccdemo,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+description: User for KSQL component
+displayName: KSQL
+cn: KSQL User
+sn: KSQL
+ou: Components
+uid: ksql
+userPassword:: e3NzaGF9UEgvVjZ3S3Mxc3lRems0RGFCd0hXdlJQNmhlZ2xQWmtCR2hWdUE9P
+ Q==
+
